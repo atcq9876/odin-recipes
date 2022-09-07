@@ -1,0 +1,40 @@
+html {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: peachpuff;
+    color: slategray;
+}
+
+.falafels,
+.risotto,
+.pizza {
+    height: auto;
+    width: 640px;
+}
+
+h1,
+h2,
+p,
+ul,
+ol {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+p,
+li {
+    font-size: 16px;
+}
+
+.description {
+    color: coral;
+}
+
+.ingredients {
+    color: indianred;
+}
+
+.steps {
+    color: palevioletred;
+}
